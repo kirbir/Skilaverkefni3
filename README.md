@@ -27,6 +27,39 @@ Verkefni í NTV - Bílasala
 
 6. Þú getur haldið áfram að leita þar til þú velur að hætta.
 
+## 💡 Kóðunarhugtök og Rökfræði
+
+Þetta verkefni nýtir ýmis mikilvæg hugtök í forritun og rökfræði:
+
+1. 🔄 Lykkjur (Loops):
+   - `while` lykkja er notuð til að halda forritinu gangandi þar til notandinn velur að hætta.
+
+2. 📊 Gagnagerðir (Data Structures):
+   - `List` er notað til að geyma safn af bílum.
+   - `class` er notað til að skilgreina `cars` og `carType` hluti.
+
+3. 🔍 Leitaraðferðir (Search Methods):
+   - Notar `where` aðferð til að leita að bílum eftir ári eða nafni.
+
+4. 🎛️ Flæðistýring (Control Flow):
+   - `switch` yfirlýsing er notuð til að meðhöndla mismunandi valmöguleika í valmynd.
+   - `try-catch` blokkir eru notaðar til að meðhöndla villur við inntak.
+
+5. 🧩 Föll (Functions):
+   - Notar sérsniðin föll eins og `searchCarsByYear` og `searchCarsByName` til að framkvæma leit.
+
+6. 🖨️ Inntaks/Úttaks meðhöndlun (I/O Handling):
+   - Notar `stdin.readLineSync()` til að lesa inntak frá notanda.
+   - `print()` skipanir eru notaðar til að birta upplýsingar fyrir notandann.
+
+7. 🎨 Strengjavinnsla (String Manipulation):
+   - `firstLetterUpperCase()` fall er notað til að breyta fyrsta staf í streng í hástaf.
+
+8. 🌈 Viðbætur (Extensions):
+   - Notar Dart viðbætur til að bæta litaaðgerðum við strengi.
+
+Þessi hugtök og aðferðir sýna hvernig hægt er að nota grunnþætti forritunar til að búa til gagnvirkt og notendavænt forrit.
+
 ## Athugasemdir
 
 - ✅ Gakktu úr skugga um að þú hafir Dart uppsett á tölvunni þinni til að keyra forritið.
