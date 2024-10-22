@@ -33,3 +33,5 @@ Verkefni í NTV - Bílasala
 - 🌈 Forritið notar litakóða til að gera úttak skýrara. Ef þú sérð skrýtna stafi í staðinn fyrir liti, gæti verið að terminalinn þinn styðji ekki ANSI litakóða.
 
 🎈 Góða skemmtun við að nota bílaleitarforritið! 🎈
+
+![bílasala bubbi](https://github.com/user-attachments/assets/cc86ef9c-e7ea-4b53-934a-360a269f65d7)
